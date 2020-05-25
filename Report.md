@@ -29,27 +29,45 @@
 ### Assumptions
 ### User Stories
 #### Relationship Manager Profiles
+
 As a relationship manager I want to profile my skills and attributes so that I can be directed to the most effective customers and packages
+
 As a relationship manager I want to fill out my initialisation questionnaire digitally so that clerical errors are decreased and ease of use is improved
+
 As a relationship manager I want to update my questionnaire when my circumstances change so that my profile reflects my current attributes and traits
+
 As an outbound customer I want to speak to a relationship manager who is knowledgeable about the product I am interested in so that I can gain information I require
+
 As an outbound customer I want to speak to a relationship manager who I can relate with so that I can more easily communicate my needs and wants 
+
 
 #### Outbound Call
 As an outbound customer I want to be contacted directly at a time that is convenient to me so that I am not interrupted
+
 As an outbound customer I want to be contacted regarding packages that are relevant to me so that I am more likely to make a purchase
+
 As an outbound customer I want to remove myself from the call list so that I can stop receiving calls if I am not interested
+
 As a relationship manager I want calls to be made automatically so that I can increase my call and sale performance
+
 As a relationship manager I want to see detailed information regarding the customer as I call so that I can tailor the sales experience
+
 As a relationship manager I want a script that I can quote while calling so that I can optimise the likelihood of a sale
+
 As a relationship manager I want a list of products that the customer may be interested in so that I can provide them with options they are likely to purchase
+
 
 #### Inbound Call
 As an inbound caller I want to provide basic details about my enquiry so that I can clarify my intentions
+
 As an inbound caller I want to speak to a relationship manager who is relatable and knowledgeable regarding my enquiry
+
 As a relationship manager I want to view details about the customer and call before starting so that I can tailor the call to the customer's needs
+
 As a relationship manager I want a list of products that the customer may be interested in so that I can provide them with options they are likely to purchase
+
 
 #### Call Holding
 As a customer I want to wait for the shortest possible time so that I am less inclined to hang up
+
 As a relationship manager I want waiting calls automatically forwarded to me so that I am likely to receive relevant calls to my skill set
