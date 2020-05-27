@@ -24,6 +24,8 @@
 ![Relationship Manager Empathy Map](./em_relationship_manager.jpg)
 ### Outbound Client
 ![Outbound Client Empathy Map](./em_outbound_client.jpg)
+### Outbound Client
+![Outbound Client Empathy Map](./empathy_map_for_incall_client.PNG)
 
 ## User Stories
 ### Assumptions
@@ -71,3 +73,106 @@ As a relationship manager I want a list of products that the customer may be int
 As a customer I want to wait for the shortest possible time so that I am less inclined to hang up
 
 As a relationship manager I want waiting calls automatically forwarded to me so that I am likely to receive relevant calls to my skill set
+
+## Questionare
+### RM
+1.) How many Languages can you speak and whats your fluency in each language, 1 being poorly familiar and 10 being extreamly fluent?
+
+Replies could include:
+                        * I am able to speak two languages fairly fluently english and spanish, english with a rating of 7/10 and spanish with a rating of 10/10,
+                          Thus making me an excellent consultant for people of spanish backgrounds or individuals wanting to visit any spanish speaking country.
+        
+2.) How many countries have you visited and what sort of traveller were you?
+
+Replies could include:
+                        * I have been to 3 countries in total australia, spain, france providing me with excellent knowledge to these countries, france being the 
+                        one visited as a student tourist on a low budget, thus i got to experiance the true life style of a student traveler and a budget orianted
+                        tourist providing me the ability to empathies with such travelers.
+                        
+3.) how do you time manage and plane your activities?
+
+Replies could include:
+                        * Travel consultants require excellent time managment skills and as such i have built a strict habbit of planing all my activities ahead 
+                        of time and following such plans, i use apps like MS Calander in order to not only manage my future activities but also to manage my daily
+                        and hourly tasks.
+
+4.) Are you a peoples person? and are you confident at speaking?
+
+Replies could include:
+                        * Having conducted many presentations in the forms of public speaking to a diverese audiance of diffrent age groups, genderes backgrounds
+                        and intrests i belive it has caused me to develop an extreame confidence when speaking with people and easily understand there needs.
+                        
+5.) How strong are your computer skills?
+
+Replies could include:
+                        * as someone who utilises the internet for all my career needs, ranging from conducting research to blog writing to general browsing 
+                        and as someone who uses a suit of apps to manage time and task flows i belive i have a strong knowledge when it comes to technology.
+
+6.) Why do you want to enter the travel industry?
+
+Replies could include:
+                        * Having always wanted to travel the world i find my self taking an intrest towards countries causing me to continuesly read and research
+                        about the worlds diffrent countries and the experiances of a traveler, thus giving me a strong passion towards travel and helping people 
+                        choose the right experiance.
+
+7.) How strong are your geagraphy skills?
+
+Replies could include:
+                        * As i have taken several geagraphy releated subjects at university and recived a distinction average in most of these subjects i belive 
+                        i have excellent knowledge when it comes to geography.
+                        
+### Client
+1.) Which countries have you traveled?
+
+Replies could include:
+                        * I have been to a total of two countries Britan and australia. Britan being the visited country as a tourist, in which i visited 
+                        many destinations around london.
+                        
+2.) What Did you enjoy most in your travels?
+
+Replies could include:
+                        * Meeting new people in london and experiancing this new culture and seeing its many similarities and diffrences to the australian
+                        culture.
+                        
+3.) what sites did you visit in your destinations?
+
+Replies could include:
+                        * I visited numerous historical attractions and museuims.
+                        
+4.) what budget have you previously allocated to your trvels and what budget are you allocating now? 
+
+Replies could include:
+                        * I have not allocated a strict budget for my previous travel and was flexible with my spending, i ended up spending somewhere in the range of 5K
+                        and i am planing to roughly spend the same amount this time.
+                        
+5.) what type of experiance do you wish to enjoy during this travel
+
+Replies could include:
+                        * I wish to view more historical sites and experiance a more diverse culture.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
