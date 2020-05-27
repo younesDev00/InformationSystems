@@ -24,6 +24,8 @@
 ![Relationship Manager Empathy Map](./em_relationship_manager.jpg)
 ### Outbound Client
 ![Outbound Client Empathy Map](./em_outbound_client.jpg)
+### Inbound Client
+![Inbound Client Empathy Map](./em_inbound_client.png)
 
 ## User Stories
 ### Assumptions
