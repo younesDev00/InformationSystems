@@ -59,3 +59,7 @@ As a relationship manager I want a script that I can quote while calling so that
 As a relationship manager I want a list of products that the customer may be interested in so that I can provide them with options they are likely to purchase
 
 As a relationship manager I want see a score that represents how likely a customer is to buy something so that I can tailor my sales pitch
+
+## Activity Diagrams
+### Inbound Calls
+![Inbound Call Activity Diagram](./ad_inbound_calls.jpg)
