@@ -149,7 +149,10 @@ Use Case Narrative 2
 
 Use Case Name: Repeating customer makes an inbound call
 
-
+![use case narr part 1](./narrative_2_part_1.PNG)
+![use case narr part 1](./narrative_2_part_2.PNG)
+![use case narr part 1](./narrative_2_part_3.PNG)
+![use case narr part 1](./narrative_2_part_4.PNG)
 
 
 ## Activity Diagrams
