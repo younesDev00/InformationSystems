@@ -24,10 +24,7 @@
 ![Relationship Manager Empathy Map](./em_relationship_manager.jpg)
 ### Outbound Client
 ![Outbound Client Empathy Map](./em_outbound_client.jpg)
-<<<<<<< HEAD
-### Outbound Client
-![Outbound Client Empathy Map](./empathy_map_for_incall_client.PNG)
-=======
+
 ### Inbound Client
 ![Inbound Client Empathy Map](./em_inbound_client.png)
 >>>>>>> f061bb51690e2e8a15c39931ca8e4e880ee15ce0
@@ -146,6 +143,13 @@ Replies could include:
 
 Replies could include:
                         * I wish to view more historical sites and experiance a more diverse culture.
+                        
+## Use case Narratives
+Use Case Narrative 2
+
+Use Case Name: Repeating customer makes an inbound call
+
+
 
 
 ## Activity Diagrams
