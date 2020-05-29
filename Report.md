@@ -162,6 +162,10 @@ Use Case Name: Repeating customer makes an inbound call
 ![use case narr 2 part 3](./narrative_2_part_3.PNG)
 ![use case narr 2 part 4](./narrative_2_part_4.PNG)
 
+## Use case diagrams
+### Relationship manager; Potential customer selection for an outbound call
+
+### Repeating customer makes an inbound call
 
 ## Activity Diagrams
 ### Inbound Calls
