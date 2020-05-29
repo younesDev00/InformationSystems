@@ -145,14 +145,21 @@ Replies could include:
                         * I wish to view more historical sites and experiance a more diverse culture.
                         
 ## Use case Narratives
-Use Case Narrative 2
+
+### Use Case Narrative 1
+
+Use Case Name: Relationship manager; Potential customer selection for an outbound call
+
+![use case narr 1 part 1](./narrative_2_part_1.PNG)
+
+### Use Case Narrative 2
 
 Use Case Name: Repeating customer makes an inbound call
 
-![use case narr part 1](./narrative_2_part_1.PNG)
-![use case narr part 1](./narrative_2_part_2.PNG)
-![use case narr part 1](./narrative_2_part_3.PNG)
-![use case narr part 1](./narrative_2_part_4.PNG)
+![use case narr 2 part 1](./narrative_2_part_1.PNG)
+![use case narr 2 part 2](./narrative_2_part_2.PNG)
+![use case narr 2 part 3](./narrative_2_part_3.PNG)
+![use case narr 2 part 4](./narrative_2_part_4.PNG)
 
 
 ## Activity Diagrams
