@@ -150,7 +150,8 @@ Replies could include:
 
 Use Case Name: Relationship manager; Potential customer selection for an outbound call
 
-![use case narr 1 part 1](./narrative_2_part_1.PNG)
+![use case narr 1 part 1](./use_case_1_pt_1.PNG)
+![use case narr 1 part 2](./use_case_1_pt_2.PNG)
 
 ### Use Case Narrative 2
 
