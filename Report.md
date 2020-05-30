@@ -198,7 +198,7 @@ Use Case Name: Repeating customer makes an inbound call
 ![outbound Call](./images/rm_selecte_customer_outb.PNG)
 
 ### Repeating customer makes an inbound call
-![outbound Call](./images/images/rm_selecte_customer_outb.PNG)
+![reapeating customer inbound call](./images/repeating_customer_inbound_call.PNG)
 
 ## Activity Diagrams
 ### Inbound Calls
