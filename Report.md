@@ -201,3 +201,6 @@ Use Case Name: Repeating customer makes an inbound call
 ## Activity Diagrams
 ### Inbound Calls
 ![Inbound Call Activity Diagram](./ad_inbound_calls.jpg)
+
+## Class Diagram
+![CMC Class Diagram](./cd_cmc.png)
