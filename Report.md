@@ -204,3 +204,7 @@ Use Case Name: Repeating customer makes an inbound call
 
 ## Class Diagram
 ![CMC Class Diagram](./cd_cmc.png)
+
+## Prototype
+### App Landing
+![CMC App Landing Prototype](./proto_app_landing.png)
