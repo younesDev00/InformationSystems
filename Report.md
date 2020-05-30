@@ -21,13 +21,13 @@
 
 ## Empathy Maps
 ### Relationship Manager
-![Relationship Manager Empathy Map](./em_relationship_manager.jpg)
+![Relationship Manager Empathy Map](images/em_relationship_manager.jpg)
 
 ### Outbound Client
-![Outbound Client Empathy Map](./em_outbound_client.jpg)
+![Outbound Client Empathy Map](images/em_outbound_client.jpg)
 
 ### Inbound Client
-![Inbound Client Empathy Map](./em_inbound_client.png)
+![Inbound Client Empathy Map](images/em_inbound_client.png)
 
 ## User Stories
 ### Assumptions
@@ -200,14 +200,14 @@ Use Case Name: Repeating customer makes an inbound call
 
 ## Activity Diagrams
 ### Inbound Calls
-![Inbound Call Activity Diagram](./ad_inbound_calls.jpg)
+![Inbound Call Activity Diagram](images/ad_inbound_calls.jpg)
 
 ## Class Diagram
-![CMC Class Diagram](./cd_cmc.png)
+![CMC Class Diagram](images/cd_cmc.png)
 
 ## Prototype
 ### App Landing
-![CMC App Landing Prototype](./proto_app_landing.png)
+![CMC App Landing Prototype](images/proto_app_landing.png)
 
 ### Call Queue
-![CMC Call Queue Prototype](./proto_call_queue.png)
+![CMC Call Queue Prototype](images/proto_call_queue.png)
