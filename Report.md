@@ -22,12 +22,12 @@
 ## Empathy Maps
 ### Relationship Manager
 ![Relationship Manager Empathy Map](./em_relationship_manager.jpg)
+
 ### Outbound Client
 ![Outbound Client Empathy Map](./em_outbound_client.jpg)
 
 ### Inbound Client
 ![Inbound Client Empathy Map](./em_inbound_client.png)
->>>>>>> f061bb51690e2e8a15c39931ca8e4e880ee15ce0
 
 ## User Stories
 ### Assumptions
@@ -62,13 +62,7 @@ As a relationship manager I want a list of products that the customer may be int
 
 As a relationship manager I want see a score that represents how likely a customer is to buy something so that I can tailor my sales pitch
 
-<<<<<<< HEAD
-#### Call Holding
-As a customer I want to wait for the shortest possible time so that I am less inclined to hang up
-
-As a relationship manager I want waiting calls automatically forwarded to me so that I am likely to receive relevant calls to my skill set
-
-## Questionare
+## Questionnaire
 ### RM
 1.) How many Languages can you speak and whats your fluency in each language, 1 being poorly familiar and 10 being extreamly fluent?
 
@@ -170,4 +164,3 @@ Use Case Name: Repeating customer makes an inbound call
 ## Activity Diagrams
 ### Inbound Calls
 ![Inbound Call Activity Diagram](./ad_inbound_calls.jpg)
->>>>>>> f061bb51690e2e8a15c39931ca8e4e880ee15ce0
