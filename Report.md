@@ -208,3 +208,6 @@ Use Case Name: Repeating customer makes an inbound call
 ## Prototype
 ### App Landing
 ![CMC App Landing Prototype](./proto_app_landing.png)
+
+### Call Queue
+![CMC Call Queue Prototype](./proto_call_queue.png)
