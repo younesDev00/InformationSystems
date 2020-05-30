@@ -195,6 +195,7 @@ Use Case Name: Repeating customer makes an inbound call
 | Exceptions       | Exception1.Step 2 – Customer decides to hang up the call because the hold period is taking too long. The call will then end but the customer’s information will be saved.                                                                                                                                                                                                                                  |
 ## Use case diagrams
 ### Relationship manager; Potential customer selection for an outbound call
+![Inbound Call](./images/ucd_inbound_call.PNG)
 
 ### Repeating customer makes an inbound call
 
