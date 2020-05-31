@@ -10,7 +10,7 @@
 * In-house Call Management Centre (CMC)
 * Relationship Managers (RM)
 * Accommodators of holidays planned by the travel company (hotels, cruises, tours, airlines etc.)
-* Telco Provider
+* Telecom Provider
 * Direct financial beneficiaries of the travel company (shareholders/owners)
 * Travel company recruiters
 * Travel company database management team
@@ -31,11 +31,11 @@
 ![Inbound Client Empathy Map](images/em_inbound_client.png)
 
 ## Ideation Map
-During the Design thinkin process of assignment development a few assumptions where made about the final product and its over all requirments, these assumptions were made as a result of the the empathise and define sections of the process.
+During the Design thinking process of assignment development a few assumptions where made about the final product and its over all requirments, these assumptions were made as a result of the the empathies and define sections of the process.
 
-for the empathise section of the process, us the developers assumed the roles of each of the system stake holders, these roles ranged from the RM, to Outbound and inboound client. during which we simulated the roles of each stakeholder and used the simulation to gather empathise with the requirments of the task and gather assuptions about the system.
+for the empathies section of the process, us the developers assumed the roles of each of the system stake holders, these roles ranged from the RM, to Outbound and inbound client. during which we simulated the roles of each stakeholder and used the simulation to gather empathise with the requirements of the task and gather assumptions about the system.
 
-This led us to the second part of the design thinking process where we used the assumptions made during the empathise portion of the design thinking process to define our assuption and requirments from the system, during this section we were able to come up with most of our functional requirments but it proved most usefull in helping us gather our non-functional requirments, it is during these sections that we decided a relationship manager shall always sound energised and active to encourge positive customer interaction and as such incorporate voice enhancements in our system, it is also here that we wanted the customers to not be held on the line for more than 3 minutes and for them to be provided with usefull information regarding the most popular travel destinations at the time, we also assumed that all outbound customers have a detailed information section made about them before contacting them to increase efficincy to the maximum amount possible
+This led us to the second part of the design thinking process where we used the assumptions made during the empathies portion of the design thinking process to define our assumption and requirements from the system, during this section we were able to come up with most of our functional requirements but it proved most useful in helping us gather our non-functional requirements, it is during these sections that we decided a relationship manager shall always sound energized and active to encourage positive customer interaction and as such incorporate voice enhancements in our system, it is also here that we wanted the customers to not be held on the line for more than 3 minutes and for them to be provided with useful information regarding the most popular travel destinations at the time, we also assumed that all outbound customers have a detailed information section made about them before contacting them to increase efficiency to the maximum amount possible
 
 ## User Stories
 ### Assumptions
@@ -57,7 +57,7 @@ As an outbound customer I want to remove myself from the call list so that I can
 #### Inbound Call
 As an inbound caller I want to provide basic details about my enquiry so that I can clarify my intentions
 
-As a repeat customer with recent sales history I want to be prioritised when making an inbound call so that I am more likely to make a purchase.
+As a repeat customer with recent sales history I want to be prioritized when making an inbound call so that I am more likely to make a purchase.
 
 
 #### Calls
@@ -75,7 +75,7 @@ As a relationship manager I want see a score that represents how likely a custom
 
 ## Questionnaire
 ### RM
-1. **How many Languages can you speak and whats your fluency in each language, 1 being poorly familiar and 10 being extreamly fluent?**
+1. **How many Languages can you speak and whats your fluency in each language, 1 being poorly familiar and 10 being extremely fluent?**
 
     Replies could include:
     * I am able to speak two languages fairly fluently english and spanish, english with a rating of 7/10 and spanish with a rating of 10/10,
@@ -85,69 +85,69 @@ As a relationship manager I want see a score that represents how likely a custom
 
     Replies could include:
     * I have been to 3 countries in total australia, spain, france providing me with excellent knowledge to these countries, france being the 
-    one visited as a student tourist on a low budget, thus i got to experiance the true life style of a student traveler and a budget orianted
+    one visited as a student tourist on a low budget, thus i got to experience the true life style of a student traveler and a budget oriented
     tourist providing me the ability to empathies with such travelers.
 
 3. **how do you time manage and plane your activities?**
 
     Replies could include:
-    * Travel consultants require excellent time managment skills and as such i have built a strict habbit of planing all my activities ahead 
-    of time and following such plans, i use apps like MS Calander in order to not only manage my future activities but also to manage my daily
+    * Travel consultants require excellent time management skills and as such i have built a strict habit of planing all my activities ahead 
+    of time and following such plans, i use apps like MS Calender in order to not only manage my future activities but also to manage my daily
     and hourly tasks.
 
 4. **Are you a peoples person? and are you confident at speaking?**
 
     Replies could include:
-    * Having conducted many presentations in the forms of public speaking to a diverese audiance of diffrent age groups, genderes backgrounds
-    and intrests i belive it has caused me to develop an extreame confidence when speaking with people and easily understand there needs.
+    * Having conducted many presentations in the forms of public speaking to a diverse audience of different age groups, genders backgrounds
+    and interests i believe it has caused me to develop an extreme confidence when speaking with people and easily understand there needs.
 
 5. **How strong are your computer skills?**
 
     Replies could include:
-    * as someone who utilises the internet for all my career needs, ranging from conducting research to blog writing to general browsing 
-    and as someone who uses a suit of apps to manage time and task flows i belive i have a strong knowledge when it comes to technology.
+    * as someone who utilizes the internet for all my career needs, ranging from conducting research to blog writing to general browsing 
+    and as someone who uses a suit of apps to manage time and task flows i believe i have a strong knowledge when it comes to technology.
 
 6. **Why do you want to enter the travel industry?**
 
     Replies could include:
-    * Having always wanted to travel the world i find my self taking an intrest towards countries causing me to continuesly read and research
-    about the worlds diffrent countries and the experiances of a traveler, thus giving me a strong passion towards travel and helping people 
-    choose the right experiance.
+    * Having always wanted to travel the world i find my self taking an interest towards countries causing me to continuously read and research
+    about the worlds different countries and the experience's of a traveler, thus giving me a strong passion towards travel and helping people 
+    choose the right experience.
 
-7. **How strong are your geagraphy skills?**
+7. **How strong are your geography skills?**
 
     Replies could include:
-    * As i have taken several geagraphy releated subjects at university and recived a distinction average in most of these subjects i belive 
+    * As i have taken several geography related subjects at university and received a distinction average in most of these subjects i believe 
     i have excellent knowledge when it comes to geography.
                         
 ### Client
 1. **Which countries have you traveled?**
 
     Replies could include:
-    * I have been to a total of two countries Britan and australia. Britan being the visited country as a tourist, in which i visited 
+    * I have been to a total of two countries Britain and australia. Britain being the visited country as a tourist, in which i visited 
     many destinations around london.
 
 2. **What Did you enjoy most in your travels?**
 
     Replies could include:
-    * Meeting new people in london and experiancing this new culture and seeing its many similarities and diffrences to the australian
+    * Meeting new people in london and experiencing this new culture and seeing its many similarities and differences to the australian
     culture.
 
 3. **what sites did you visit in your destinations?**
 
     Replies could include:
-    * I visited numerous historical attractions and museuims.
+    * I visited numerous historical attractions and museums.
 
-4. **what budget have you previously allocated to your trvels and what budget are you allocating now?** 
+4. **what budget have you previously allocated to your travels and what budget are you allocating now?** 
 
     Replies could include:
     * I have not allocated a strict budget for my previous travel and was flexible with my spending, i ended up spending somewhere in the range of 5K
     and i am planing to roughly spend the same amount this time.
 
-5. **what type of experiance do you wish to enjoy during this travel**
+5. **what type of experience do you wish to enjoy during this travel**
 
     Replies could include:
-    * I wish to view more historical sites and experiance a more diverse culture.
+    * I wish to view more historical sites and experience a more diverse culture.
                         
 ## Use case Narratives
 
@@ -206,7 +206,7 @@ Use Case Name: Repeating customer makes an inbound call
 ![outbound Call](./images/rm_selecte_customer_outb.PNG)
 
 ### Repeating customer makes an inbound call
-![reapeating customer inbound call](./images/repeating_customer_inbound_call.PNG)
+![repeating customer inbound call](./images/repeating_customer_inbound_call.PNG)
 
 ## Activity Diagrams
 ### Inbound Calls
