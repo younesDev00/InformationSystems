@@ -31,7 +31,11 @@
 ![Inbound Client Empathy Map](images/em_inbound_client.png)
 
 ## Ideation Map
+During the Design thinkin process of assignment development a few assumptions where made about the final product and its over all requirments, these assumptions were made as a result of the the empathise and define sections of the process.
 
+for the empathise section of the process, us the developers assumed the roles of each of the system stake holders, these roles ranged from the RM, to Outbound and inboound client. during which we simulated the roles of each stakeholder and used the simulation to gather empathise with the requirments of the task and gather assuptions about the system.
+
+This led us to the second part of the design thinking process where we used the assumptions made during the empathise portion of the design thinking process to define our assuption and requirments from the system, during this section we were able to come up with most of our functional requirments but it proved most usefull in helping us gather our non-functional requirments, it is during these sections that we decided a relationship manager shall always sound energised and active to encourge positive customer interaction and as such incorporate voice enhancements in our system, it is also here that we wanted the customers to not be held on the line for more than 3 minutes and for them to be provided with usefull information regarding the most popular travel destinations at the time, we also assumed that all outbound customers have a detailed information section made about them before contacting them to increase efficincy to the maximum amount possible
 
 ## User Stories
 ### Assumptions
