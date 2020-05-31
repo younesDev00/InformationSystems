@@ -30,6 +30,9 @@
 ### Inbound Client
 ![Inbound Client Empathy Map](images/em_inbound_client.png)
 
+## Ideation Map
+
+
 ## User Stories
 ### Assumptions
 ### User Stories
