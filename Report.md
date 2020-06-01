@@ -2,6 +2,13 @@
 # Major Travel Company CMC
 
 ## Objectives
+A major travel company would like to improve the operation of their in-house call management centre. To meet this requirement, a web application, MyCMC, is to be developed with the intention of meeting the following objectives: 
+
+ 1. Provide multiple relationship managers with concurrent access to a user-friendly web interface
+ 2. Gather, store and analyse personality profiles for both relationship managers and customers to improve compatibility between those buying and selling
+ 3. Provide a more streamlined sales process for relationship managers
+ 4. Improve customer satisfaction for both inbound and outbound clients when interacting with a remote relationship manager
+ 5. Maintain sales data sets to improve functionality for future iterations of MyCMC
 
 ## Stakeholders
 * Travel company
