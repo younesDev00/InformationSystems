@@ -239,7 +239,8 @@ Use Case Name: Repeating customer makes an inbound call
 ### Inbound Calls
 ![Inbound Call Activity Diagram](images/ad_inbound_calls.jpg)
 
-![Outbound Call Activity Diagram](images/ad-Outbound Calls.jpg)
+### Outbound Calls
+![Outbound Call Activity Diagram](images/ad_outbound_calls.jpg)
 
 
 ## Class Diagram
