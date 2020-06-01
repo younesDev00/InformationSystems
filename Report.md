@@ -37,23 +37,32 @@ When developing the following system, a number of assumptions were made to fill 
  5. System products (e.g. holiday packages) are readily available and include data regarding likelihood of purchase considering a customer 
 
 ## Empathy Maps
+Empathy maps provide a stakeholder's perspective of the context in which the system should operate. This information provides a foundation for the definition of user requirements by outlining essential interactions and outlooks.
+
 ### Relationship Manager
+A relationship manager is an existing role in the major travel company that is responsible for the sale of holiday packages. 
+
 ![Relationship Manager Empathy Map](images/em_relationship_manager.jpg)
 
 ### Outbound Client
+An outbound client is a customer whose information has been sourced externally and is to be contacted by the major travel company.
+
 ![Outbound Client Empathy Map](images/em_outbound_client.jpg)
 
 ### Inbound Client
+An inbound client is a customer who approached the major travel company independently, likely sourced from advertising.
 ![Inbound Client Empathy Map](images/em_inbound_client.png)
 
 ## Ideation Map
-During the Design thinking process of assignment development a few assumptions where made about the final product and its over all requirments, these assumptions were made as a result of the the empathies and define sections of the process.
+During the Design thinking process of assignment development a few assumptions where made about the final product and its over all requirements, these assumptions were made as a result of the the empathies and define sections of the process.
 
-for the empathies section of the process, us the developers assumed the roles of each of the system stake holders, these roles ranged from the RM, to Outbound and inbound client. during which we simulated the roles of each stakeholder and used the simulation to gather empathise with the requirements of the task and gather assumptions about the system.
+For the empathies section of the process, us the developers assumed the roles of each of the system stake holders, these roles ranged from the RM, to Outbound and inbound client. during which we simulated the roles of each stakeholder and used the simulation to gather empathise with the requirements of the task and gather assumptions about the system.
 
 This led us to the second part of the design thinking process where we used the assumptions made during the empathies portion of the design thinking process to define our assumption and requirements from the system, during this section we were able to come up with most of our functional requirements but it proved most useful in helping us gather our non-functional requirements, it is during these sections that we decided a relationship manager shall always sound energized and active to encourage positive customer interaction and as such incorporate voice enhancements in our system, it is also here that we wanted the customers to not be held on the line for more than 3 minutes and for them to be provided with useful information regarding the most popular travel destinations at the time, we also assumed that all outbound customers have a detailed information section made about them before contacting them to increase efficiency to the maximum amount possible
 
 ## User Stories
+These statements capture a feature of the CMC system from the perspective of a critical stakeholder. This collection of statement provide the foundation of functionality for the final system. 
+
 #### Relationship Manager Profiles
 
 As a relationship manager I want to profile my skills and attributes digitally so that I can be directed to the most effective customers and packages
@@ -73,7 +82,6 @@ As an inbound caller I want to provide basic details about my enquiry so that I 
 
 As a repeat customer with recent sales history I want to be prioritized when making an inbound call so that I am more likely to make a purchase.
 
-
 #### Calls
 As a relationship manager I want calls to be made automatically so that I can increase my call and sale performance
 
@@ -88,7 +96,9 @@ As a relationship manager I want a list of products that the customer may be int
 As a relationship manager I want see a score that represents how likely a customer is to buy something so that I can tailor my sales pitch
 
 ## Questionnaire
-### RM
+The following questionnaires are utilised to gather key information about **Relationship Managers** and **Clients** that will be translated into personality profiles. This profile information provides the CMC system with ability to match an Relationship Managers to Clients or Client to products.
+
+### Relationship Manager
 1. **How many Languages can you speak and whats your fluency in each language, 1 being poorly familiar and 10 being extremely fluent?**
 
     Replies could include:
@@ -164,6 +174,7 @@ As a relationship manager I want see a score that represents how likely a custom
     * I wish to view more historical sites and experience a more diverse culture.
                         
 ## Use case Narratives
+Each system use case narrative outlines an interaction between a key stakeholder and the system, including requirements, exceptions and alternate flows considering external circumstances.
 
 ### Use Case Narrative 1
 
@@ -183,6 +194,7 @@ Use Case Name: Relationship manager; Potential customer selection for an outboun
 | Includes/Extends/Inherits      | Includes 1: "As a relationship manager I want to see a score that represents how likely a customer is to buy something so that I can tailor my sales pitch." <br><br>Includes 2: "As a relationship manager I want a list of products that the customer may be interested in so that I can provide them with options they are likely to purchase" <br><br>Includes 3: "As a relationship manager I want a script that I can quote while calling so that I can optimise the likelihood of a sale"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | Supporting Information         | Relationship Manager profile of attributes, Potential customers holiday package of interest, all customer and Relationship manager's information needs to be stored on a central server.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 | Non-functional<br>Requirements | Performance: Web page loading time. <br><br>Security: hashing of personal details of customers and staff in the CMC systems' database.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+
 ### Use Case Narrative 2
 
 Use Case Name: Repeating customer makes an inbound call
@@ -215,6 +227,7 @@ Use Case Name: Repeating customer makes an inbound call
 | Step             | 1. The CMC staff will re-direct line to a hold queue for only the suggested relationship managers suggested by the CMC system.<br> <br>2. The customer will be put on hold for a temporary period.<br> <br>3. As soon one the relationship managers suggested by the CMC system are available, the relationship manager will then be able to enter the call on which hold queue.<br> <br>4. Use case ends. |
 | Post-conditions  | The customer has connected with a relationship manager having to wait a minimum hold period.                                                                                                                                                                                                                                                                                                               |
 | Exceptions       | Exception1.Step 2 – Customer decides to hang up the call because the hold period is taking too long. The call will then end but the customer’s information will be saved.                                                                                                                                                                                                                                  |
+
 ## Use case diagrams
 ### Relationship manager; Potential customer selection for an outbound call
 ![outbound Call](./images/rm_selecte_customer_outb.PNG)
@@ -229,7 +242,7 @@ Use Case Name: Repeating customer makes an inbound call
 ## Class Diagram
 ![CMC Class Diagram](images/cd_cmc.png)
 
-## Prototype
+## Application Prototype
 ### App Landing
 ![CMC App Landing Prototype](images/proto_app_landing.png)
 
