@@ -27,6 +27,15 @@ A major travel company would like to improve the operation of their in-house cal
 * Travel company competitors
 * Travel company website management team
 
+## Assumptions
+When developing the following system, a number of assumptions were made to fill in lacking knowledge regarding, the existing system, context and its users. To prevent miscommunication, the following assumptions should be taken into account when considering any work models: 
+
+ 1. All relationship manager have an active, consistent and fast connection to an external network and phone system
+ 2. The external phone systems linked the MyCMC is capable of basic actions (call, hang up, hold, call waiting, etc.) and has an interface compatible with a web system including the retrieval of basic information such as hold times
+ 3. Outbound customer data is provided to the system meaning there is no requirement for the system to gather basic customer details (name, number, etc.) from an external service
+ 4. All relationship managers and customers and comfortable filling a questionnaire as there is no allowance for either user in the system without a profile
+ 5. System products (e.g. holiday packages) are readily available and include data regarding likelihood of purchase considering a customer 
+
 ## Empathy Maps
 ### Relationship Manager
 ![Relationship Manager Empathy Map](images/em_relationship_manager.jpg)
@@ -45,8 +54,6 @@ for the empathies section of the process, us the developers assumed the roles of
 This led us to the second part of the design thinking process where we used the assumptions made during the empathies portion of the design thinking process to define our assumption and requirements from the system, during this section we were able to come up with most of our functional requirements but it proved most useful in helping us gather our non-functional requirements, it is during these sections that we decided a relationship manager shall always sound energized and active to encourage positive customer interaction and as such incorporate voice enhancements in our system, it is also here that we wanted the customers to not be held on the line for more than 3 minutes and for them to be provided with useful information regarding the most popular travel destinations at the time, we also assumed that all outbound customers have a detailed information section made about them before contacting them to increase efficiency to the maximum amount possible
 
 ## User Stories
-### Assumptions
-### User Stories
 #### Relationship Manager Profiles
 
 As a relationship manager I want to profile my skills and attributes digitally so that I can be directed to the most effective customers and packages
