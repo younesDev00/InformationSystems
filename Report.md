@@ -242,9 +242,11 @@ Use Case Name: Repeating customer makes an inbound call
 ### Outbound Calls
 ![Outbound Call Activity Diagram](images/ad_outbound_calls.jpg)
 
-
 ## Class Diagram
 ![CMC Class Diagram](images/cd_cmc.png)
+
+## Collaborative Diagram
+![Outbound Call Collaboration Diagram](./images/cb_outbound_client.png)
 
 ## Application Prototype
 ### App Landing
