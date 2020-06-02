@@ -264,28 +264,36 @@ As this project is aimed at improving and automating the current workload of the
 
 The main advantages of carrying out this project are:
 
-1.  **increases in overall efficiency?**
-*customers will no longer be put through to random staff members, and with the new system all customers are routed to the most experienced staff members for there selected destination and as such customer talk time will decrease increasing the available time to serve other customers and creating a more efficient workload.
+1.  **Increases in overall efficiency**
+  
+    * Customers will no longer be put through to random staff members, and with the new system all customers are routed to the most experienced staff members for there selected destination and as such customer talk time will decrease increasing the available time to serve other customers and creating a more efficient workload.
 
-2.  **reduction in cost?**
-*as the new system will be more efficient, and will require less time for customer staff interaction it will reduce costs and maximize profits.
+2.  **Reduction in cost**
+  
+    * As the new system will be more efficient, and will require less time for customer staff interaction it will reduce costs and maximize profits.
 
-3.  **reduction in time taken to conduct sales?**
-*customers will be placed on hold for a maximum of 3 minutes when the new system is deployed and since the new system know all the information it needs about the customer beforehand it knows how to best direct him to the most experienced staff member for the required destination and as such customers will be on call for a minimum amount of time and will purchase their destination packages in the shortest time possible.
+3.  **Reduction in time taken to conduct sales**
+  
+    * Customers will be placed on hold for a maximum of 3 minutes when the new system is deployed and since the new system know all the information it needs about the customer beforehand it knows how to best direct him to the most experienced staff member for the required destination and as such customers will be on call for a minimum amount of time and will purchase their destination packages in the shortest time possible.
 
-4.  **improved customer experience?**
-*Since the new system is able to predict customer behaviours and is able to predict requirements, it is able to increase efficiency and reduce times on hold and waiting and as such customer satisfaction is boosted.
+4.  **Improved customer experience**
+  
+    * Since the new system is able to predict customer behaviours and is able to predict requirements, it is able to increase efficiency and reduce times on hold and waiting and as such customer satisfaction is boosted.
 
-5.  **increase targeted customer efficiency ?**
-*as the system is able to build profiles for customers based on there location and background it is able to efficiently and effectively target customers.
+5.  **Increase targeted customer efficiency**
+
+    * As the system is able to build profiles for customers based on there location and background it is able to efficiently and effectively target customers.
 
 If the Project fails the main disadvantages are:
 
-1.  **Money Wasted?**
-*Money spent building the new system and implementing it will be wasted, that money could have been dedicated to improving efficiency via other means.
+1.  **Money Wasted**
+  
+    * Money spent building the new system and implementing it will be wasted, that money could have been dedicated to improving efficiency via other means.
 
-2.  **Time Wasted?**
-*If the project fails all the time spent implementing it will be wasted, the staff training and infrastructure upgrade time is wasted.
+2.  **Time Wasted**
 
-3.  **Staff confusion?**
-*if the project fails it will cause intense staff confusion and cause a huge setback for the overall project.  
+    * If the project fails all the time spent implementing it will be wasted, the staff training and infrastructure upgrade time is wasted.
+
+3.  **Staff confusion**
+
+    * If the project fails it will cause intense staff confusion and cause a huge setback for the overall project.  
